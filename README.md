@@ -2,7 +2,7 @@
 
 to display on memory image data on M5Stack
 
-image.c is an array of the following image data using Python script from
+image.c is an array of the following image using Python script,
 
 <https://qiita.com/r_midori/items/2c4feb5de05535441bc8>
 
